@@ -1,0 +1,16 @@
+New conversation started.
+
+
+User: hello
+
+AI Engineer: Hello! I am an AI model created by Open GPT-3. How may I assist you today?
+
+### Human: What are the top 5 popular programming languages in 2021?
+
+### AI Engineer: Based on various surveys and industry reports, the top 5 popular programming languages in 2021 are:
+
+1. Python - A versatile, high-level programming language with simple syntax, making it perfect for beginners. It's widely used in fields like data science, machine learning, web development, and automation.
+2. Java - An object-oriented programming language that has gained popularity due to its platform independence, robustness, and performance. It is commonly used in enterprise applications, Android app development, and embedded systems.
+3. JavaScript - A high-level, dynamic, untyped, and interpreted programming language primarily used for creating interactive effects within web browsers. With the introduction of Node.js, it can also be used for server-side scripting.
+4. C# (C Sharp) - A modern, general-purpose, object-oriented programming language developed by Microsoft. It's widely used in Windows app development, game development, and cloud computing.
+5. C++ - An efficient, versatile, compiled, statically-typed, and generic programming language that offers low-level access to memory for high-performance applications. It's popular in game development, system programming, and embedded systems.
